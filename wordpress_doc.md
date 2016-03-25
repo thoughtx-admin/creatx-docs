@@ -18,7 +18,7 @@ You need to install the following plugins on your Wordpress.org website.
 
   Manual Installation instructions:
 
-  1. Download the .zip from [here]
+  1. Download the .zip from [here](https://downloads.wordpress.org/plugin/rest-api.2.0-beta12.zip)
   2. Extract the zip. You should get a folder called `rest-api`
   3. Copy that folder to your wordpress plugins directory (`<your wordpress installation directory>/wp-content/plugins/`)
 
